@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  background-color: #0d1b2a;
+  color: #778da9;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  font-weight: normal;
+
+  line-height: 1.6m;
+  margin: 25;
+}
+.technologies {
+  margin: auto;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+  color: #e0e1dd;
+}
+
+h3 {
+  color: #e0e1dd;
+}
+
+.button {
+  color: #415a77;
+}
+
+h4 {
+  color: #e0e1dd;
+}
+
+form {
+  margin: 5pxpx;
+}
+a {
+  color: #e0e1dd;
+}
+
+.form-group-name {
+  padding: 5px;
+}
+.form-group-email {
+  padding: 5px;
+}
+.form-group-message {
+  padding: 10px;
+}
